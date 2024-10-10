@@ -412,7 +412,7 @@ img {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.portfolio-item-box:hover .portfolio-item-box-text {
+.portfolio-item:hover .portfolio-item-box-text {
     transform: translateY(0%);
 }
 
